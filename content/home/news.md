@@ -6,8 +6,13 @@ weight: 20
 
 title: General Objectives
 subtitle:
-
-content:
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
+advanced:
+  css_style:
+  css_class:
+---
   
   The network will interact to reason about the following objectives:
 
