@@ -12,7 +12,7 @@ address: https://meet.google.com/xoe-bdfs-qun
   postcode: '94305'
   country: United States
 
-summary: First ADAGEO meeting introducing geosciences challenges.
+summary: "First ADAGEO meeting introducing geosciences challenges."
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
