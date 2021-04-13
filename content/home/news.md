@@ -42,7 +42,8 @@ advanced:
 
 **(S1) Geoscience Brazilian data curation portal** on the web with exploration tools including examples of applications and analytics results that can be associated with GitHub for encouraging reproducible experiments. The portal will be connected to portals like Data Terra.
 
-**(S2) Use case statements** with geosciences questions and associated data descriptions and inhouse experiments
+**(S2) Use case statements** with geosciences questions and associated data descriptions and inhouse experiments.
 
-**(S3)** Position paper about intelligent geosciences using data science methods including the results of the use case statements developed
+**(S3) Position Paper** about intelligent geosciences using data science methods including the use case developed in the project.
+
 ---
