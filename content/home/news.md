@@ -1,24 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: blank
 headless: true
 weight: 20
 
-title: Latest News
+title: General Objectives
 subtitle:
 
 content:
-  count: 5
-  filters:
-    author: ""
-    category: ""
-    exclude_featured: false
-    publication_type: ""
-    tag: ""
-  offset: 0
-  order: desc
-  page_type: post
-design:
-  view: 3
-  columns: "1"
+  
+  The network will interact to reason about the following objectives:
+
+- **Objective 1 (O1): Acquired data, models and knowledge integration**
+- **Objective 2 (O2): Curation, maintenance, exploration of data collections** 
+- **Objective 3 (O3): Modelling and simulating experiments to answer questions in geoscience and make timely decisions**
+
+
 ---
