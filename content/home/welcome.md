@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-#### The objective of the international network is to create a French - Brazilian International Emerging Action on Data-Centred Intelligent GeoSciences (IEA) to promote scientific cooperation and exchange between French and Brazilian researchers interested in the design and implementation of large-scale data centric Earth Science experiments. Initially, the project will focus on solid earth data (passive seismology mostly) but the framework can be expanded to other earth science data observations.
+The objective of the international network is to create a French - Brazilian International Emerging Action on Data-Centred Intelligent GeoSciences (IEA) to promote scientific cooperation and exchange between French and Brazilian researchers interested in the design and implementation of large-scale data centric Earth Science experiments. Initially, the project will focus on solid earth data (passive seismology mostly) but the framework can be expanded to other earth science data observations.
