@@ -17,8 +17,8 @@ abstract: "This is thee first meeting of the project ADAGEO, the objective is to
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-04-01T13:30:00Z"
-date_end: "2021-04-01T15:30:00Z"
+# date: "2021-04-01T13:30:00Z"
+# date_end: "2021-04-01T15:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
