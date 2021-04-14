@@ -13,12 +13,12 @@ address: https://meet.google.com/xoe-bdfs-qun
   country: United States
 
 summary: "First ADAGEO meeting introducing geosciences challenges."
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: "This is thee first meeting of the project ADAGEO, the objective is to introduce the project and start identifying the key scientific challenges regarding intelligent GeoSciences"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2021-04-01T13:30:00Z"
+date_end: "2021-04-01T15:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
