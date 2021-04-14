@@ -4,8 +4,8 @@ title: Example Event
 event: Kick Off Meeting
 event_url: https://adageo.github.io/event/
 
-location: Google Meet
-address: https://meet.google.com/xoe-bdfs-qun
+location: https://meet.google.com/xoe-bdfs-qun
+address: 
   street: 450 Serra Mall
   city: Stanford
   region: CA
