@@ -6,11 +6,11 @@ event_url: https://adageo.github.io/event/
 
 location: https://meet.google.com/xoe-bdfs-qun
 address: 
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: ""
+  city: Lyon
+  region: RA
+  postcode: '69622'
+  country: France
 
 summary: "First ADAGEO meeting introducing geosciences challenges."
 abstract: "This is thee first meeting of the project ADAGEO, the objective is to introduce the project and start identifying the key scientific challenges regarding intelligent GeoSciences"
