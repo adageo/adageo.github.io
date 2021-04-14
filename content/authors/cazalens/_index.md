@@ -1,18 +1,18 @@
 ---
 # Display name
-title: Genoveva Vargas-Solar
+title: Sylvie Cazalens
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Senior Researcher
+role: Associate Professor, INSA, LIRIS
 
 # Organizations/Affiliations
 organizations:
 - name: LIRIS
   url: "http://liris.cnrs.fr/"
-- name: CNRS
+- name: INSA
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -42,7 +42,7 @@ organizations:
 #social:
 #- icon: envelope
 #  icon_pack: fas
-#  link: 'mailto:genoveva.vargas-solar@univ-lyon1.fr'
+#  link: 'mailto:adageo.br.fr@gmail.com'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen

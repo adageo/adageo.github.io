@@ -4,7 +4,7 @@ title: Kick Off Meeting
 event: Kick Off Meeting
 event_url: https://adageo.github.io/event/
 
-location: https://meet.google.com/xoe-bdfs-qun
+location: "Google Meet"
 address: 
   street: ""
   city: Lyon
@@ -17,12 +17,12 @@ abstract: "This is thee first meeting of the project ADAGEO, the objective is to
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-# date: "2021-04-01T13:30:00Z"
-# date_end: "2021-04-01T15:30:00Z"
+#date: "2021-04-16T01:30:00Z"
+#date_end: "2021-04-16T15:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-04-16T13:30:00Z"
+#publishDate: "2021-04-16T13:30:00Z"
 
 authors: []
 tags: []
@@ -54,10 +54,11 @@ slides:
 projects:
 ---
 
-Slides can be added in a few ways:
+**Program**
 
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+\- General presentation of the project, **G. Vargas-Solar, LIRIS**
 
-Further event details, including page elements such as image galleries, can be added to the body of this page.
+\- Data challenges in GeoSciences, **A. Nascimento, DGEF, UFRN**
+
+\- Next steps: discussion, **All partners LIRIS - UFRN**
+

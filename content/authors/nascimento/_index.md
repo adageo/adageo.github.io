@@ -1,27 +1,27 @@
 ---
 # Display name
-title: Genoveva Vargas-Solar
+title: Aderson Farias do Nascimento
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Senior Scientist, CNRS, LIRIS
+role: Professor, Geophysics, UFRN
 
 # Organizations/Affiliations
 organizations:
-- name: LIRIS
-  url: "http://liris.cnrs.fr/"
-- name: CNRS
+- name: Geophysics
+  url: "https://www.ufrn.br"
+- name: UFRN
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter. -->
 
 # interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
+# - Database Management Systems Architectures
+# - Data Science Queries 
+# - Efficient data management
 
 #education:
 #  courses:
@@ -42,7 +42,7 @@ organizations:
 #social:
 #- icon: envelope
 #  icon_pack: fas
-#  link: 'mailto:adageo.br.fr@gmail.com'
+#  link: 'mailto:genoveva.vargas-solar@univ-lyon1.fr'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen

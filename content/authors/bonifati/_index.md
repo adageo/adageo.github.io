@@ -1,18 +1,18 @@
 ---
 # Display name
-title: Genoveva Vargas-Solar
+title: Angela Bonifati
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Senior Scientist, CNRS, LIRIS
+role: Professor, UCBL, LIRIS
 
 # Organizations/Affiliations
 organizations:
 - name: LIRIS
   url: "http://liris.cnrs.fr/"
-- name: CNRS
+- name: UCBL
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -67,6 +67,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Researchers
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
