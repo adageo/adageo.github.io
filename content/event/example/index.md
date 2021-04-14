@@ -1,5 +1,5 @@
 ---
-title: Example Event
+title: Kick Off Meeting
 
 event: Kick Off Meeting
 event_url: https://adageo.github.io/event/
