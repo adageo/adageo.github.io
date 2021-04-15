@@ -13,7 +13,7 @@ organizations:
 - name: DIMAP
   url: "https://www1.ccet.ufrn.br/informatica-e-matematica-aplicada-dimap/"
 - name: UFRN
-  url: ""
+  url: "https://www.ufrn.br"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter. -->
@@ -69,4 +69,4 @@ highlight_name: false
 user_groups:
 - Researchers
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Martin A. Musicante (https://www.dimap.ufrn.br/~mam/) is a professor at the Computer Science Department (DIMAp) of UFRN, Natal, Brasil. Martin holds B.Sc, M.Sc and D.Sc degrees in Computer Science. His research interests include Programming Languages, Query Languages for Graph Databases. He was the main supervisor of more than 20 PhD or M.Sc students.

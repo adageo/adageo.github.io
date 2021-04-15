@@ -13,7 +13,7 @@ organizations:
 - name: LIRIS
   url: "http://liris.cnrs.fr/"
 - name: INSA
-  url: ""
+  url: "https://www.insa-lyon.fr"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter. -->
@@ -69,4 +69,4 @@ highlight_name: false
 user_groups:
 - Researchers
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Sylvie Cazalens (http://www.sylvie-cazalens.fr), associate professor in Computer Science at University of Lyon and she is a member of the database group at LIRIS. Her research is about large scale distributed data sharing systems. These systems consist of autonomous participating sources that manage their structured and/or unstructured data on their own and that compute their local answers to incoming queries. She has applied this paradigm in a peer-to-peer (P2P) context, where each peer is a data source. She has particularly focussed on: data integration and data mediation, semantic interoperability among peers, with adaptation of the answer to the query initiator, semantic heterogeneity of a system, including definitions of it and gossiping algorithms to reduce it, dissimilarities between descriptions of data sources, in particular topic-based ones. She uses concepts, algorithms and techniques from several fields, ranging from Databases and Information Retrieval to Distributed Systems and Semantic Web. 

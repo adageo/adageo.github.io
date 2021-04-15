@@ -13,7 +13,7 @@ organizations:
 - name: LIRIS
   url: "http://liris.cnrs.fr/"
 - name: INSA
-  url: ""
+  url: "https://www.insa-lyon.fr/en/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter. -->
@@ -69,4 +69,4 @@ highlight_name: false
 user_groups:
 - Researchers
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Philippe Lamarre (http://www.philippe-lamarre.fr), Full Professor in Computer Science  at INSA, Department IF, and he is member of the database group at  laboratory LIRIS. He works in the field of data management, in solutions that offer users a high level of autonomy and knowledge/confidence about the digital systems. He focusses on distributed and community-based approaches to data and query management, in particular: optimization of distributed queries over continuous streams, data integration, scaling, etc. He is also involved in the development and implementation of distributed and community-based approaches to data and query management. 

@@ -11,9 +11,9 @@ role: Professor, Geophysics, UFRN
 # Organizations/Affiliations
 organizations:
 - name: Geophysics
-  url: "https://www.ufrn.br"
+  url: "https://cpgf.propesp.ufpa.br/"
 - name: UFRN
-  url: ""
+  url: "https://www.ufrn.br"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter. -->
@@ -69,4 +69,4 @@ highlight_name: false
 user_groups:
 - Principal Investigators
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Aderson Farias do Nascimento is a Professor at the Geophysics Department, UFRN. His PhD in Geophysics was obtained at the University of Edinburgh in 2002. Since 2004 he has been appointed in many administrative roles like Director of Studies (2006-2008) and as UFRN’s International and Interinstitutional Relations Deputy Office (2001-2017). He also has been conducting research in seismology and has published over 35 peer-reviewed international publications, and coordinated several external funded R&D and capacity building projects in the energy sector.

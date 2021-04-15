@@ -11,9 +11,9 @@ role: Associate Professor, DIMAP, UFRN
 # Organizations/Affiliations
 organizations:
 - name: SIGAA
-  url: "https://www.ufrn.br"
+  url: "https://sigaa.ufrn.br/sigaa/"
 - name: UFRN
-  url: ""
+  url: "https://www.ufrn.br"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter. -->
@@ -69,4 +69,4 @@ highlight_name: false
 user_groups:
 - Researchers
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Marcus A. Nunes (https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1066308) is an Assistant Professor at the Department of Statistics at the Federal University of Rio Grande do Norte (UFRN). He holds a PhD in Statistics from Pennsylvania State University. He is interested in applications of statistics to real-world problems. He has published original research on time series, linguistics, and ecology. He has supervised more than 100 students on his statistical consulting project.

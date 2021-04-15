@@ -13,7 +13,7 @@ organizations:
 - name: LIRIS
   url: "http://liris.cnrs.fr/"
 - name: UCBL
-  url: ""
+  url: "https://www.univ-lyon1.fr/en"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter. -->
@@ -69,4 +69,4 @@ highlight_name: false
 user_groups:
 - Researchers
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Angela Bonifati (https://perso.liris.cnrs.fr/angela.bonifati/), Full Professor in Computer Science at Lyon 1 University (France), affiliated with the Liris research lab. She is the Head of the Database group in the same lab. She has been appointed Adjunct Professor at the University of Waterloo (Canada) in the Data Systems Group, where she spent a sabbatical in 2019. In the academic years 2018-2019 and 2019-2020, her sabbatical leave has been sponsored by INRIA Grenoble-Alpes, where she is also a member of the INRIA team Tyrex. Her current research interests are on the interplay of structured and unstructured (graph-oriented) data paradigms. In particular, she is currently working on data integration and data curation, query learning, and query processing, privacy, and security issues for these data models.

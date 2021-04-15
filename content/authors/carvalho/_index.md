@@ -11,9 +11,9 @@ role: Associate Professor, DIMAP, UFRN
 # Organizations/Affiliations
 organizations:
 - name: DIMAP
-  url: "https://www.ufrn.br"
+  url: "https://sigaa.ufrn.br/"
 - name: UFRN
-  url: ""
+  url: "https://www.ufrn.br"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter. -->
@@ -69,4 +69,4 @@ highlight_name: false
 user_groups:
 - Researchers
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Bruno M. Carvalho (http://www.dimap.ufrn.br/~motta/) is an associate professor at the Computer Science Department (DIMAp) of UFRN, Natal, Brasil. Bruno holds B.Sc, M.Sc, and PhD degrees in Computer Science. His research interests include Image Processing and Computer Vision to several areas ao applications, such as Biology, Medicine, and Geosciences. He was the main supervisor of 15 PhD or M.Sc students.
