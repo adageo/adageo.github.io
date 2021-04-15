@@ -8,9 +8,9 @@
   url = "/"
   weight = 10
 
-#[[main]]
-# name = "News"
-# url = "post"
+# [[main]]
+# name = "About"
+# url = "/about"
 # weight = 20
 
 [[main]]
@@ -28,7 +28,7 @@
 #  url = "publication"
 #  weight = 50
 
-[[main]]
-  name = "Contact"
-  url = "contact"
-  weight = 60
+# [[main]]
+#   name = "Contact"
+#   url = "contact"
+#   weight = 60

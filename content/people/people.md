@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: ADAGEO TEAM
+title: "Team"
 subtitle:
 
 content:
@@ -18,12 +18,13 @@ content:
   user_groups:
   - Principal Investigators
   - Researchers
-  - Grad Students
-  - Administration
   - Visitors
-  - Alumni
+
+
 design:
-  show_interests: false
-  show_role: true
-  show_social: true
+  show_social: false        # Show user's social networking links? (true/false)
+  show_interests: false      # Show user's interests? (true/false)
+  show_role: true           # Show user's role?
+  show_organizations: false  # Show user's organizations/affiliations?
+
 ---

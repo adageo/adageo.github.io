@@ -3,15 +3,15 @@
 # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
-widget: blank  # See https://wowchemy.com/docs/page-builder/
+widget: blank   # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
-weight: 10  # Order that this section will appear.
-title: "International emerging Action on DAta centred intelligent GEOsciences"
+weight: 20      # Order that this section will appear.
+title: "Objective"
 subtitle: ""
-hero_media: contact.jpg #welcome.jpg
+
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: '2'
 advanced:
   css_style:
   css_class:
