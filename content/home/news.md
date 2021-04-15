@@ -22,17 +22,13 @@ advanced:
 
 **Coordination actions**
 
-**(CA1)**      French-Brazilian Summit on intelligent data-centric geosciences (hybrid physical-online 3 days event)
+**(CA1-CA2)**      Summit  & Thematic School on intelligent data-centric geosciences (hybrid 4 days event)
 
-**(CA2)**       French - Brazilian thematic online school on data-centric intelligent geosciences for PhD and master students (hybrid physical-online 4 days event)
+**(CA3)**       Kaggle challenges in (2)
 
-**(CA3)**       Kaggle challenges in (2).
+**(CA4)** Agenda on intelligent data-centric geosciences **white paper**
 
-**(CA4)** Scientific research and development agenda on intelligent data-centric geosciences white paper. Challenges on geophysics problems (1 month and results will be shared during the thematic school)
-
-**(CA5)**       1 scientific visit 15 days (France -> Brazil) ; 1 scientific visit 15 days (Brazil -> France) 
-
-**(CA6)**       2 PhD internship of 12 months (1 Brazil -> France)
+**(CA5-CA6)**      2 scientific visit 15 days (FR <-> BR) / 2 PhD internship of 12 months (1 Brazil -> France)
 
 **(CA7)**       Proposal for a scientific project of data-centric intelligent geosciences (ANR or CAPES-COFECUB or IRN) 
 
@@ -40,10 +36,10 @@ advanced:
 
 **Scientific**
 
-**(S1) Geoscience Brazilian data curation portal** on the web with exploration tools including examples of applications and analytics results that can be associated with GitHub for encouraging reproducible experiments. The portal will be connected to portals like Data Terra.
+**(S1) Geoscience Brazilian data curation portal** with exploration tools including examples of applications and analytics results  (GitHub for encouraging reproducible experiments)
 
 **(S2) Use case statements** with geosciences questions and associated data descriptions and inhouse experiments.
 
-**(S3) Position Paper** about intelligent geosciences using data science methods including the use case developed in the project.
+**(S3) Position Paper** about intelligent geosciences using data science methods.
 
 ---

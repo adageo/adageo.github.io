@@ -45,7 +45,7 @@ organizations:
   link: 'mailto:adageo.br.fr@gmail.com'
 #- icon: twitter
 #  icon_pack: fab
-  link: https://twitter.com/vevavargas
+#  link: https://twitter.com/vevavargas
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
