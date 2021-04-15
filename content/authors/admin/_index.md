@@ -42,10 +42,10 @@ organizations:
 #social:
 #- icon: envelope
 #  icon_pack: fas
-#  link: 'mailto:adageo.br.fr@gmail.com'
+  link: 'mailto:adageo.br.fr@gmail.com'
 #- icon: twitter
 #  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/vevavargas
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -69,4 +69,4 @@ highlight_name: false
 user_groups:
 - Principal Investigators
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Genoveva Vargas-Solar (http://www.vargas-solar.com) is a senior scientist of the French Council of Scientific Research (CR1, CNRS) at Laboratory of Informatics on Images and Information Systems (LIRIS), Database group. She is a regular member of the Mexican Academia of Computing. Her research concerns distributed and heterogeneous databases, data science pipeline enactment, and service-based database systems. She contributes to the construction of service-based database management systems. She has applied her results to e-Science applications in Astronomy, Biology, social sciences, digital humanities, and industry 4.0.
