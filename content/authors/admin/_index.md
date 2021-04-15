@@ -13,7 +13,7 @@ organizations:
 - name: LIRIS
   url: "http://liris.cnrs.fr/"
 - name: CNRS
-  url: ""
+  url: "http://www.cnrs.fr"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter. -->
@@ -59,7 +59,7 @@ organizations:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "genoveva.vargas-solar@liris.cnrs.fr"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

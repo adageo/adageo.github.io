@@ -11,9 +11,9 @@ role: Professor, DIMAP, UFRN
 # Organizations/Affiliations
 organizations:
 - name: DIMAP
-  url: "https://www.ufrn.br"
+  url: "https://sigaa.ufrn.br/"
 - name: UFRN
-  url: ""
+  url: "https://www.ufrn.br"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter. -->
@@ -69,4 +69,4 @@ highlight_name: false
 user_groups:
 - Researchers
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Umberto Souza da Costa is an associate professor at the Computer Science Department (DIMAp) of UFRN, Natal, Brasil. His research is on programming languages, module compositions, and graph databases. Umberto holds a PhD in Computer Science (2005).  His work includes the supervision of MSc students and co-supervision of PhD students.
