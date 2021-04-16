@@ -6,7 +6,7 @@ title: Marcus A. Nunes
 superuser: false
 
 # Role/position
-role: Associate Professor, DIMAP, UFRN
+role: Associate Professor, DEST, UFRN
 
 # Organizations/Affiliations
 organizations:
