@@ -1,7 +1,7 @@
 ---
 title: "Kick-Off Meeting"
 
-event: Kick-Off
+event: Kick-off meeting
 # event_url: https://adageo.github.io/event/
 
 location: "Google Meet"
@@ -17,9 +17,9 @@ summary: "First ADAGEO meeting introducing key GeoSciences scientific challenges
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-06-15T13:00:00Z"
+date: "2021-04-16"
 # date_end: "2030-06-01T15:00:00Z"
-# all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-04-15T00:00:00Z"
@@ -36,7 +36,7 @@ image:
 
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "https://drive.google.com/file/d/1gJ_o8n7qzpyHUAjP0eL8ihNa-w5wRqoX/view?usp=sharing"
 url_video: ""
 
 # Markdown Slides (optional).
@@ -53,6 +53,19 @@ slides:
 #   Otherwise, set `projects = []`.
 #  projects:
 
+
+# Featured image
+# To use, place an image named `featured.jpg/png` in your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+
+image:
+  placement: 1
+  caption: # "Photo by [Geo](https://github.com/gcushen/)"
+  focal_point: "Center"     
+  preview_only: false       
+  alt_text: ""
+
 ---
 
 ### Program
@@ -61,3 +74,5 @@ slides:
 - Next steps: discussion, **All partners LIRIS - UFRN**
 
 
+### Slides
+{{< gdocs src="https://drive.google.com/file/d/1gJ_o8n7qzpyHUAjP0eL8ihNa-w5wRqoX/preview" >}}

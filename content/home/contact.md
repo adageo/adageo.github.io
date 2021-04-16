@@ -5,7 +5,7 @@
 
 widget: contact   # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
-weight: 10      # Order that this section will appear.
+weight: 50      # Order that this section will appear.
 title: "Contact"
 subtitle: ""
 

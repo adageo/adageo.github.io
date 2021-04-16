@@ -16,7 +16,7 @@
 theme = "minimal"
 
 # Enable users to switch between day and night mode?
-day_night = true
+day_night = false
 
 # Override the theme's font set (optional).
 #   Guide to font sets: https://wowchemy.com/docs/customization/#fonts
@@ -85,11 +85,11 @@ show_related = {post = true, project = true, publication = true, talk = true}
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "adageo.br.fr@gmail.com"
-#phone = "888 888 88 88"
+# phone = "888 888 88 88"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "25 avenue Pierre de Coubertin", city = "Villeurbanne", region = "RA", postcode = "69622", country = "France", country_code = "FR"}
+# address = {street = "25 avenue Pierre de Coubertin", city = "Villeurbanne", region = "RA", postcode = "69622", country = "France", country_code = "FR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -100,7 +100,7 @@ address = {street = "25 avenue Pierre de Coubertin", city = "Villeurbanne", regi
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["9:00 to 17:00 Monday to Friday"]
+# office_hours = ["9:00 to 17:00 Monday to Friday"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url = "https://calendly.com"
@@ -109,6 +109,7 @@ office_hours = ["9:00 to 17:00 Monday to Friday"]
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
 #  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
+ {icon = "slack-hash", icon_pack = "fab", name = "adageo.slack.com", link = "https://adageo.slack.com"},
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -133,17 +134,17 @@ twitter = ""
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
 date_format = "Jan 2, 2006"
 #   Examples: "3:04 pm" or "15:04"
-time_format = "3:04 PM"
+time_format = "15:04"
 
 # Address format (en-us, en-gb, de, fr-fr, zh).
-address_format = "en-us"
+address_format = "en-gb"
 
 ############################
 ## Advanced
 ############################
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
-main_menu = {enable = true, align = "r", show_logo = true, highlight_active_link = false, show_language = false, show_day_night = true, show_search = true}
+main_menu = {enable = true, align = "r", show_logo = true, highlight_active_link = true, show_language = false, show_day_night = true, show_search = true}
 
 # Enable in-built social sharing buttons? (true/false)
 sharing = false
@@ -217,7 +218,7 @@ plugins_js  = []
   #   "": No search engine
   #   "wowchemy": Built-in search engine
   #   "algolia": Algolia (https://www.algolia.com)
-  provider = "wowchemy"
+  provider = ""
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.

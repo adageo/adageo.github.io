@@ -7,9 +7,10 @@
 widget: pages   # Page type to display. E.g. post, event, or publication.
 headless: true
 weight: 12
+active: true    # Activate this widget? true/false
 
-title: "Events"
-subtitle: "Upcoming & Recent"
+title: "News"
+subtitle: ""
 
 content:
   page_type: event   # Page type to display. E.g. post, event, or publication.

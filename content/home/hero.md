@@ -9,7 +9,11 @@ weight: 10  # Order that this section will appear.
 
 title: "ADAGEO"
 subtitle: ""
-hero_media: contact.jpg
+hero_media: home.jpg
+
+active: false    # Activate this widget? true/false
+
+
 
 #International Emerging Action on DAta centred intelligent GEOsciences
 
@@ -37,7 +41,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
   # background:
-  #   image: coders.jpg       # Name of image in `assets/media/`.
+  #   image: home.jpg       # Name of image in `assets/media/`.
   #   image_darken: 0.5         # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   #   image_parallax: false   # Use a fun parallax-like fixed background effect on desktop? true/false
   #   image_position: center  # Options include `left`, `center` (default), or `right`.
@@ -49,7 +53,12 @@ design:
 
 advanced:
   css_style:
-  css_class: 
+  css_class: "section-heading col-12 mb-3 text-center"
 ---
 
 International emerging **A**ction on **DA**ta centred intelligent **GEO**sciences
+
+<img style='display:inline; padding-right:30px' src="media/logo-cnrs.png" width="90" height="70" /> 
+<img style='display:inline; padding-right:30px' src="media/logo-liris.png" width="130" height="200" /> 
+<img style='display:inline; padding-right:30px' src="media/logo-ufrn.png" width="130" height="200" /> 
+<img style='display:inline; padding-right:10px' src="media/logo-capes.png" width="90" height="70" />
