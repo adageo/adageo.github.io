@@ -1,27 +1,23 @@
 ---
-title: "Kick-Off Meeting"
+title: "Summit 2021"
 
-event: Kick-off meeting
-# event_url: https://adageo.github.io/event/
+event: SUMMIT 2021 website
+event_url: https://adageo.github.io/summit-2021/
 
 location: "Google Meet"
-# address: 
+# address:
 #   street: ""
 #   city: Lyon
 #   region: RA
 #   postcode: '69622'
 #   country: France
 
-summary: "First ADAGEO meeting introducing key GeoSciences scientific challenges."
+summary: "First ADAGEO SUMMIT"
 # abstract: "The objective is to introduce the project and start identifying the key scientific challenges regarding intelligent GeoSciences"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-<<<<<<< HEAD
-date: "2021-04-16"
-=======
-date: "2021-04-15T13:00:00Z"
->>>>>>> e62b6c47d9da2076981299ac76dadbb31133adc8
+date: "2021-11-29"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
@@ -40,7 +36,7 @@ image:
 
 url_code: ""
 url_pdf: ""
-url_slides: "https://drive.google.com/file/d/1gJ_o8n7qzpyHUAjP0eL8ihNa-w5wRqoX/view?usp=sharing"
+url_slides: ""
 url_video: ""
 
 # Markdown Slides (optional).
@@ -71,12 +67,3 @@ image:
   alt_text: ""
 
 ---
-
-### Program
-- General presentation of the project, **G. Vargas-Solar, LIRIS**
-- Data challenges in GeoSciences, **A. Nascimento, DGEF, UFRN**
-- Next steps: discussion, **All partners LIRIS - UFRN**
-
-
-### Slides
-{{< gdocs src="https://drive.google.com/file/d/1gJ_o8n7qzpyHUAjP0eL8ihNa-w5wRqoX/preview" >}}
